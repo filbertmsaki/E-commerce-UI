@@ -35,7 +35,7 @@ OutlineInputBorder outLineInputBorder() {
   borderSide: const BorderSide(color: kTextColor),
 );
 }
-
+const defaultDuration = Duration(milliseconds: 250);
 //Form Error
 
 final RegExp emailValidatorRegExp =

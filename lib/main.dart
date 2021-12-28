@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:the_app/routes.dart';
+import 'package:the_app/screens/home/home_screen.dart';
+import 'package:the_app/screens/login_success/login_success_screen.dart';
 import 'package:the_app/screens/splash/splash_screen.dart';
 import 'package:the_app/theme.dart';
 
@@ -18,7 +20,7 @@ class MyApp extends StatelessWidget {
       title: 'The Application',
       theme: theme(),
       // home: const SplashScreen(),
-      initialRoute: SplashScreen.routeName,
+      initialRoute: HomeScreen.routeName,
       routes: routes,
     );
   }

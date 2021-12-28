@@ -110,6 +110,7 @@ List<Product> products = [
     description: description,
     rating: 2.7,
     isFavourite: true,
+    isPopular: true,
   ),
 ];
 

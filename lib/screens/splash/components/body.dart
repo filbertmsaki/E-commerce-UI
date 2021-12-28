@@ -20,11 +20,11 @@ class _BodyState extends State<Body> {
       "image": "assets/images/splash_1.png"
     },
     {
-      "text": "Welcome to The Application,  lets shop2!",
+      "text": "We help people conect with store \naround Tanzania",
       "image": "assets/images/splash_2.png"
     },
     {
-      "text": "Welcome to The Application,  lets shop3!",
+      "text": "We show the easy way to shop. \nJust stay at home with us",
       "image": "assets/images/splash_3.png"
     },
   ];
